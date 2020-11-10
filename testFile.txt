@@ -1,5 +1,3 @@
 this is a test file for automated integration and build
 added a line to test again
-third test
-forth test
 another test on email
